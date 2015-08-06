@@ -1,7 +1,7 @@
 === Plugin Name ===
-Contributors: zayedbaloch,
-Donate link: http://themereflex.com
-Tags: fontawesome, font awesome, font icon, posts, page, widget, sidebar, shortcode, 
+Contributors: zayedbaloch, pixeldesign,
+Donate link: http://pixeldesign.io
+Tags: fontawesome, font awesome, font icon, posts, page, widget, sidebar, shortcode,
 Requires at least: 3.2
 Tested up to: 4.2
 Stable tag: 1.0
